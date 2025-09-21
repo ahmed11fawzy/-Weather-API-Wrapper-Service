@@ -1,0 +1,33 @@
+
+#Node.js
+
+/node_modules
+/npm-debug.log 
+yarn-error.log 
+package-lock.json
+
+#TypeScript
+
+dist/
+
+#Editor and OS files
+
+.vscode/ .idea/ *.DS_Store
+
+#Environment variables
+
+.env 
+.env.local
+.env.*.local
+
+# Testing
+
+coverage/
+
+# Build artifacts
+
+*.log
+*.pid
+*.seed 
+*.pid.lock
+ 
