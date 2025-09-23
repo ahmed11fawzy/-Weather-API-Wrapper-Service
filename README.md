@@ -5,7 +5,7 @@
 
 ### Project Overview
 
-[app overview](weather-api-scrapper.png)
+[weather-api-scrapper.png]
 
 ### Tech Stack
 
